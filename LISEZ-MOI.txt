@@ -6,3 +6,7 @@ VERSION DE TEST — NE PAS PUBLIER AVANT VERIFICATION
 4. Les randonnées historiques supprimées sont masquées par signature dans randos-supprimees.json; elles restent dans index.html.
 5. Les ajouts locaux existants ne sont pas automatiquement publiés.
 6. IMPORTANT : cette version doit être testée sur un dépôt de test avant publication sur le site réel.
+
+VERSION CORRIGÉE POUR LE DÉPÔT DE TEST : Mescheminsparcourus-test.
+Le dénivelé inconnu de 5 randonnées est conservé comme valeur manquante (null).
+Ne pas installer sur le dépôt principal avant validation.
